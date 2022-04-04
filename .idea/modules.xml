@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bharat-news.iml" filepath="$PROJECT_DIR$/.idea/modules/Bharat-news.iml" group="Bharat-news" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bharat-news-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bharat-news-app.iml" group="Bharat-news/app" />
+      <module fileurl="file://$PROJECT_DIR$/android-news-app.iml" filepath="$PROJECT_DIR$/android-news-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

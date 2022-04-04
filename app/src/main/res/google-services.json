@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453592011162",
+    "project_id": "bharat-news-fb078",
+    "storage_bucket": "bharat-news-fb078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453592011162:android:e0abcdca50f26f4ddcea23",
+        "android_client_info": {
+          "package_name": "com.example.android.newsfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453592011162-5nkvlsmka42h0nf0rtvt2qethhocsalv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfIz6EBbwvvPES5ndwUUyxjsgIZw3MC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453592011162-5nkvlsmka42h0nf0rtvt2qethhocsalv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
